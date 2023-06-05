@@ -1,0 +1,38 @@
+.card-main{
+    background-color: white;
+    width: 100%;
+    padding: 25px;
+
+}
+.card-cntnts1 span,.card-fraction{
+    color: #909090;
+    font-size: 14px;
+}
+.card-cntnts{
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+    position: relative;
+}
+.progress-container{
+    width: 180px;
+    height: 18px;
+    border-radius: 20px;
+    background-color: #f6f6f6;
+    position: absolute;
+    left: 60px;
+}
+.progress{
+    height: 100%;
+    background-color: #0B3366;
+    border-radius: 20px;
+}
+.card-head{
+    font-size: 16px;
+    font-weight:400 ;
+    
+}
+.card-fraction{
+    position: absolute;
+    right: 0px;
+}

@@ -1,0 +1,24 @@
+.section1-main {
+    padding: 10px;
+    display: flex;
+    width: 100%;
+    background-color: white;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.section1-1 span {
+    color: #c6c6c6;
+}
+
+.section1-inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    font-weight: 600;
+}
+
+.section1-inner1 {
+    font-weight: 600;
+}
